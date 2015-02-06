@@ -84,3 +84,4 @@ attributes:
 
         cask_fonts:
             - source-code-pro
+            - input
