@@ -29,3 +29,4 @@ attributes:
             - vagrant
             - virtualbox
             - macvim
+            - iterm2
